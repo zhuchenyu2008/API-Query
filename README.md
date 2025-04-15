@@ -34,7 +34,7 @@ API-Query/
 
 - **config.php**  
     - 项目唯一配置文件，填写：
-        - `api_base`：API主域名（如 https://api.gpt.ge）
+        - `api_base`：API主域名（如 https://api.gpt.ge ）
         - `api_token`：你的API密钥
         - `usage_path`：用量接口
         - `subscription_path`：额度接口
